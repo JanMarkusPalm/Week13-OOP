@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\OOP_Part1\ClassCat\obj\Debug\netcoreapp3.1\ClassCat.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\OOP_Part1\ClassCat\obj\Debug\netcoreapp3.1\ClassCat.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\OOP_Part1\ClassCat\obj\Debug\netcoreapp3.1\ClassCat.AssemblyInfo.cs
+C:\Users\opilane\source\repos\OOP_Part1\ClassCat\obj\Debug\netcoreapp3.1\ClassCat.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\OOP_Part1\ClassCat\bin\Debug\netcoreapp3.1\ClassCat.exe
+C:\Users\opilane\source\repos\OOP_Part1\ClassCat\bin\Debug\netcoreapp3.1\ClassCat.deps.json
+C:\Users\opilane\source\repos\OOP_Part1\ClassCat\bin\Debug\netcoreapp3.1\ClassCat.runtimeconfig.json
+C:\Users\opilane\source\repos\OOP_Part1\ClassCat\bin\Debug\netcoreapp3.1\ClassCat.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\OOP_Part1\ClassCat\bin\Debug\netcoreapp3.1\ClassCat.dll
+C:\Users\opilane\source\repos\OOP_Part1\ClassCat\bin\Debug\netcoreapp3.1\ClassCat.pdb
+C:\Users\opilane\source\repos\OOP_Part1\ClassCat\obj\Debug\netcoreapp3.1\ClassCat.dll
+C:\Users\opilane\source\repos\OOP_Part1\ClassCat\obj\Debug\netcoreapp3.1\ClassCat.pdb
+C:\Users\opilane\source\repos\OOP_Part1\ClassCat\obj\Debug\netcoreapp3.1\ClassCat.genruntimeconfig.cache
